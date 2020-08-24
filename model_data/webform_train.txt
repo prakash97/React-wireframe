@@ -1,0 +1,8 @@
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/1.png 59,39,130,54,0 61,75,129,89,0 60,110,160,122,0 60,144,104,158,0 60,194,92,212,0 86,221,128,233,0
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/10.jpg 49,46,148,59,0 48,60,151,75,0 47,83,153,95,1 80,76,85,82,2 175,122,279,134,1 175,85,276,96,0
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/12.png 91,27,102,36,2 91,54,101,61,2 92,64,101,72,2 92,135,99,142,2
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/2.png 68,45,102,57,0 69,68,96,80,3 98,68,111,78,3 113,67,131,78,3 69,91,117,99,3 69,111,76,119,4 69,120,75,128,4 69,127,75,135,4 68,136,75,143,4 68,144,76,152,4 68,153,77,160,4 70,160,75,167,4 67,211,170,245,0
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/4.png 66,28,126,39,0 67,42,128,54,0 66,69,128,80,0 68,113,127,123,0 66,140,191,170,0 65,217,142,233,1
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/5.jpg 43,65,107,83,0 44,87,177,108,0 44,132,179,153,0 41,156,52,166,2 42,171,180,191,1
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/7.png 667,161,693,181,2 667,213,694,234,2 669,266,689,283,2 665,313,695,342,2 46,314,147,341,1 665,461,687,483,2 69,445,93,466,2 68,571,97,592,2
+D:/DS Training Videos/TensorFlow-2.x-YOLOv3-master (1)/TensorFlow-2.x-YOLOv3-master/custom_dataset/train/8.png 7,129,102,150,0 10,220,19,230,4 8,236,20,246,4 9,252,19,261,4
